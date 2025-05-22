@@ -1,11 +1,11 @@
-# AI-Powered Todo List
+# Smart Todo List
 
-A modern, interactive todo list application with AI-like features and a beautiful user interface.
+A modern, interactive todo list application with smart features and a beautiful user interface.
 
 ## Features
 
 - ✨ Clean and modern UI with smooth animations
-- 🤖 AI-like suggestions and feedback
+- 🤖 Smart suggestions and feedback
 - 📱 Fully responsive design
 - 💾 Local storage persistence
 - ✅ Task filtering (All, Active, Completed)
@@ -13,6 +13,7 @@ A modern, interactive todo list application with AI-like features and a beautifu
 - 🗑️ Delete individual tasks
 - 🧹 Clear all completed tasks
 - ⌨️ Keyboard support (Enter to add tasks)
+- 🌓 Dark mode support
 
 ## Technologies Used
 
@@ -35,13 +36,16 @@ A modern, interactive todo list application with AI-like features and a beautifu
 - Delete tasks using the trash icon
 - Filter tasks using the filter buttons
 - Clear all completed tasks using the "Clear Completed" button
+- Toggle dark mode using the moon/sun icon
 
-## AI Features
+## Smart Features
 
-The application includes AI-like features such as:
+The application includes smart features such as:
 - Helpful suggestions when you complete tasks
 - Encouraging messages to keep you motivated
 - Smart task management with local storage
+- Progress tracking and completion rate
+- Priority suggestions for task management
 
 ## Browser Support
 
@@ -52,4 +56,4 @@ The application works in all modern browsers that support:
 
 ## License
 
-This project is open source and available under the MIT License. 
+This project is open source and available under the MIT License.
